@@ -39,3 +39,9 @@ github:
 goodreads: jamiecayley
 instagram: jamiedevoursbooks
 email: jamiedevoursbooks@gmail.com
+
+gems:
+  - jekyll-seo-tag
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
