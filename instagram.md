@@ -1,6 +1,6 @@
 ---
 title: Bookstagram Account
-layout: external
+layout: post
 sidebar_link: true
 external_url: https://www.instagram.com/jamiedevoursbooks/
 ---
