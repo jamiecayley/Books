@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Contact & Review Policy
+title: Contact Details & Review Policy
 sidebar_link: true
 ---
 
