@@ -1,22 +1,30 @@
 <nav id="sidebar-icon-links">
+  
+      {% if site.instagram %}
+        <a class="link" data-title="instagram.com/{{ site.instagram }}" href="http://instagram.com/{{ site.instagram }}" target="_blank">
+            <svg class="icon icon-instagram"><use xlink:href="#icon-instagram"></use></svg>
+        </a>
+    {% endif %}
+  
+       {% if site.goodreads %}
+        <a class="link" data-title="goodreads.com/{{ site.goodreads }}" href="https://www.goodreads.com/{{ site.goodreads }}" target="_blank">
+            <svg class="icon icon-goodreads"><use xlink:href="#icon-goodreads"></use></svg>
+        </a>
+    {% endif %}
+
   {% if site.github.repo %}
     <a id="github-link"
        class="icon" title="Github Project" aria-label="Github Project"
        href="{{ site.github.repo }}">
       {% include svg/github.svg %}
     </a>
-    <a id="github-download-link"
-       class="icon" title="Download" aria-label="Download"
-       href="{{ site.github.repo }}/archive/v{{ site.version }}.zip">
-      {% include svg/download.svg %}
-    </a>
-  {% endif %}
 
   <a id="subscribe-link"
      class="icon" title="Subscribe" aria-label="Subscribe"
      href="{{ site.baseurl }}/feed.xml">
     {% include svg/feed.svg %}
   </a>
+  
 
   {% comment %}
     Check if we have tag or search pages page active before linking to it.
