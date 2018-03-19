@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "January wrapup"
+title: "January wrap-up"
 categories:
   - Monthly Wrap-ups 
 ---
