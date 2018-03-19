@@ -1,59 +1,42 @@
 ---
 layout: post
-title: "Edge Case: Nested and Mixed Lists"
+title: "Welcome and 2017 Favourites"
 categories:
-  - Edge Case
+  - Favourites
 tags:
-  - content
-  - css
-  - edge case
-  - lists
-  - markup
-last_modified_at: 2017-03-09T14:25:52-05:00
+  - favourites
+  - 2017
+  - YA
+last_modified_at: 2017-12-29T14:25:52-05:00
 ---
 
-Nested and mixed lists are an interesting beast. It's a corner case to make sure that lists within lists do not break the ordered list numbering order and list styles go deep enough.
+I love reading, ever since I was a child I’d devour hundreds of books a year and you’d never see me anywhere without a book, but then that stopped. Once I started becoming serious about learning biology and math and I started attending university it turned into only reading if it’s a textbook or an academic paper and nothing else, until last year I picked it up again. I’ve been keeping track of the books I read on goodreads and I have reviewed a few both there and on netgalley but I feel like goodreads isn’t the best platform to write reviews because I only ever read goodreads reviews once I’m very interested in a book and probably will read it either way or when I’ve already finished and I’m curious about whether or not other readers share my opinion on the book which makes it hard for me to write reviews as I think everything I’m saying the readers already know. For that reason I decided I’ll be reviewing all the books I read this upcoming year here and to kick off I’ll review my favourite books of 2017 (sorted alphabetically by title) 
 
-## Ordered -- Unordered -- Ordered
+##Dragonwatch by Brandon Mull 
+Dragonwatch is the long awaited sequel to Fablehaven – a series featuring two siblings who are sent to spend two weeks with grandparents they barely know who happen to be caretakers of a magical reserve. There is a lot more to the story and while the characters start off pretty annoying there is a lot of development as the books go on which made it my favourite series growing up and I liked it enough to start reading in English because I didn’t want to wait for the Spanish translations to be released! Dragonwatch kicks off a few months after the last Fablehaven book, which I was disappointed about as I was hoping the characters and the world had aged with me. Most of the book takes place in Wyrmroost, a secret dragon sanctuary, where the King of Dragons is attempting to break free and return the world to the Age of Dragons and Kendra and Seth are the only people who might be able to stop him. Overall I really enjoyed the book, it’s one of the few sequels I can say I’m truly glad it was written, however, I am aware my views are biased due to it being a favourite series growing up. 
 
-1. ordered item
-2. ordered item
-  * **unordered**
-  * **unordered**
-    1. ordered item
-    2. ordered item
-3. ordered item
-4. ordered item
+##Eleanor Oliphant is Completely Fine by Gail Honeyman
+This a book that I’d seen lots of people talking about and reading but I was convinced it wasn’t the kind of book that I’d like. On the surface it seems like it’s just the typical portrayal of an autistic or socially awkward person but I was happily surprised to find out there was more to it than that. The themes of the book include childhood abuse, loneliness, friendship, self esteem issues, ghosts left by a difficult past and starting to overcome those obstacles. This book was by no means what I consider a “fun” read but by the end of the book not only did I feel like I understood Eleanor and cared about what happened to her character but it also left me feeling hopeful about overcoming my own (microscopic by comparison) ghosts from the past. 
 
-## Ordered -- Unordered -- Unordered
+##The First Time She Drowned by Kerry Kletter 
+This book has themes similar to those in Eleanor Oliphant is Completely Fine. The book follows Cassie, who is about to turn 18 and finally be able to leave the psychiatric ward after being put there by her parents for something she didn’t do. She now has to learn to live in the outside world again, confront buried childhood memories and decide whether to build the life she wants without her mother or the life her mother has and try to save their relationship. I wasn’t too fond of the characters outside of Cassie’s family as they seemed to lack depth but overall found it to be an interesting read with a hopeful tone despite emotional abuse, sexual abuse, suicide and mental health issues being central to the plot. 
 
-1. ordered item
-2. ordered item
-  * **unordered**
-  * **unordered**
-    * unordered item
-    * unordered item
-3. ordered item
-4. ordered item
+##Ghostwritten by Isabel Wolff
+Ghostwritten tells the story of Jenni, a ghostwritter, and Klara, a woman who survived being at a concentration camp and wants help writing her life story for her family to read. Unlike most WWII books, this book focused on the Japanese invasion of Java, a part of history that I knew nothing about before this book. The book is very well written, well researched and in addition to having the historical element it also covers Jenni’s past (which had similar elements to Klara’s, despite the lack of the WWII element) and how the two women overcome the ghosts of their past together. 
 
-## Unordered -- Ordered -- Unordered
+##The Good Immigrant edited by Nikesh Shukla 
+The Good Immigrant is a collection of essays written by 21 BAME authors covering different sides of being an immigrant in the UK, the expectations, the stereotypes and the discrimination they face, the feelings of otherness and how hard it is when your home is in a country that doesn’t want you there. This is the only non-fiction book on this list and one that I think is increasingly relevant given the current political climate in the UK. I personally found it very comforting to read as it made me feel less alone reading about other people facing the same obstacles I’ve been facing since moving here and I’d recommend it to other fellow BAME immigrants for that reason, but I think it’s a book everyone in the UK should be reading. 
 
-* unordered item
-* unordered item
-  1. ordered
-  2. ordered
-    * unordered item
-    * unordered item
-* unordered item
-* unordered item
+##Knights of the Borrowed Dark & The Forever Court* by Dave Rudden 
+Denizen Hardwick spent most of his life at an orphanage, until one day he finds out he has an aunt (and magical powers) and his life changes radically. It sounds like a very stereotypical and overworked storyline, one that I’m personally sick of, but this series was quite different from most YA novels I’ve read. The characters are very complex and so are the themes discussed including grief, loss, revenge, betrayal, otherness, identity and trust. Both books started off not-great, the first because of the stereotypical plot and the characters coming off as annoying and shallow and the second one because of an entirely separate storyline being introduced and it taking a really long time to connect to the other storyline. 
 
-## Unordered -- Unordered -- Ordered
+##My Name Is Asher Lev by Chaim Potok
+My Name Is Asher Lev is a coming of age story. The main character, Asher Lev, grew up being part of a Hasidic Jewish movement, where his father was an important emissary of the Rebbe. Asher has a talent for art and painting and feels a deep need to do so, something his parents find deeply upsetting, as art is considered to be from the Other Side. Most of the book focuses on Asher’s attempts to reconcile two seemingly conflicting parts of his identity as well as the response both his parents and his community has to his choices. When I started reading the book I knew very little about Judaism (I still do) and I’d never heard anything about Hasidic Jews so it took me a while to fully understand that aspect of the book but overall I found it to be a really enjoyable read and despite having a very different background to Asher’s, I found him to be a very relatable character. 
 
-* unordered item
-* unordered item
-  * unordered
-  * unordered
-    1. **ordered item**
-    2. **ordered item**
-* unordered item
-* unordered item
+##Pachinko by Jin Min Lee
+Pachinko follows a Korean family through several generations. The book starts around 1900 following Sunja who was born in Korea and moves to Japan after getting married, then follows her children who were born in Japan and their children. The book is quite long and it covers a lot of history as well as a lot of characters, which I quite enjoyed. I knew nothing about the relationship between Korea and Japan or how it worsened through WWII, or how long Koreans in Japan were mistreated, even after being in Japan for a few generations. I think the book is a very good character study and historical novel, but if you dislike bulky books or having a lot of characters and history shoved in your face this is definitely not the book for you. 
+
+##When the Moon Was Ours by Anna-Marie McLemore
+I knew very little about the book going into it and I think that actually made it more enjoyable so I’ll keep this review short. When the Moon Was Ours is a YA novel full of magical realism that features good trans representation in addition to Latino characters and culture. Like most people, I’ve seen snippets of myself in lots of characters throughout my life, but it’s always been just a small part of my identity while this book managed to thick a lot of boxes all at once like no other book ever has. 
+
+*I received a copy of the book(s) through netgalley in exchange for an honest review 
