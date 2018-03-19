@@ -3,3 +3,13 @@
 # only main files contain this front matter, not partials.
 ---
 @import "hydeout";
+.outer-div
+{
+     padding: 30px;
+}
+.inner-div
+{
+     margin: 0 auto;
+     max-width: 700px; 
+}
+
