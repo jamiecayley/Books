@@ -3,10 +3,6 @@ layout: post
 title: "Welcome and 2017 Favourites"
 categories:
   - Favourites
-tags:
-  - favourites
-  - 2017
-  - YA
 ---
 
 I love reading, ever since I was a child I’d devour hundreds of books a year and you’d never see me anywhere without a book, but then that stopped. Once I started becoming serious about learning biology and math and I started attending university it turned into only reading if it’s a textbook or an academic paper and nothing else, until last year I picked it up again. I’ve been keeping track of the books I read on goodreads and I have reviewed a few both there and on netgalley but I feel like goodreads isn’t the best platform to write reviews because I only ever read goodreads reviews once I’m very interested in a book and probably will read it either way or when I’ve already finished and I’m curious about whether or not other readers share my opinion on the book which makes it hard for me to write reviews as I think everything I’m saying the readers already know. For that reason I decided I’ll be reviewing all the books I read this upcoming year here and to kick off I’ll review my favourite books of 2017 (sorted alphabetically by title) 
