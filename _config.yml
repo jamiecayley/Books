@@ -41,6 +41,9 @@ instagram: jamiedevoursbooks
 email: jamiedevoursbooks@gmail.com
 google_analytics: UA-115942746-1
 
+disqus:
+  shortname: jamiedevoursbooks
+
 gems:
   - jekyll-seo-tag
   - jekyll-gist
