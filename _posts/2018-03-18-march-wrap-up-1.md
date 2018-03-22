@@ -9,7 +9,7 @@ As I'm having a really good reading month so far and spring break is coming up (
 
 ## The Endless King by Dave Rudden (5 stars)
 
-This is the last book in the Knights of the Borrowed Dark trilogy, I reviewed the first two [here]. This is by far my favourite YA fantasy series, it starts off as a very stereotypical orphan finds out he’s magical story but the themes (grief, revenge, trust, forgiveness, parenthood, duty, war and more) and the plot are more complex than most YA I’ve read as well as some adult books. I think this book is possibly my favourite book of all time, I had really high expectations for it and it surpassed those, not only did the trilogy get an awesome last book but we also got some LGBTQ characters as well (just when I thought my love for this series couldn’t possibly be greater!) 
+This is the last book in the Knights of the Borrowed Dark trilogy, I reviewed the first two [here](https://jamiecayley.github.io/books/favourites/2017/12/29/welcome-and-favourites.html). This is by far my favourite YA fantasy series, it starts off as a very stereotypical orphan finds out he’s magical story but the themes (grief, revenge, trust, forgiveness, parenthood, duty, war and more) and the plot are more complex than most YA I’ve read as well as some adult books. I think this book is possibly my favourite book of all time, I had really high expectations for it and it surpassed those, not only did the trilogy get an awesome last book but we also got some LGBTQ characters as well (just when I thought my love for this series couldn’t possibly be greater!) 
 
 ## Grey Sister* by Mark Lawrence (5 stars)
 
