@@ -39,5 +39,5 @@ I rarely review more than one book at once, especially when they’re not part o
 
 Unfortunately I chose to DNF this book at 40%. The book felt to me like a journey through the narrator’s mind, visiting old memories, grieving her mother and loosely connecting those memories and feelings to the life of Wilhelm Röntgen, who discovered x-rays. The writing is beautiful and poetic, however, I felt there was a lot of distance between the narrator and the reader which made it really hard for me to truly dive into the story and care about it. If you enjoy books that don’t have much of a plot and read like a long reflective piece/monologue then this might be a great book for you but I personally need to really care about a character before reading something like this and I wasn’t able to forge that connection with the narrator. 
 
-* ARC provided by Penguin Random House through First to Read in exchange for an honest review.
+*ARC provided by Penguin Random House through First to Read in exchange for an honest review.
 ** I received a copy of the book through netgalley in exchange for an honest review
