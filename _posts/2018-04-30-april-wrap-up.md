@@ -43,8 +43,10 @@ Ever since moving to the UK I’ve been feeling like I’m the only person in th
 
 I had really high hopes for this book but as much as it pains me to admit it and write this review, it was a big let down. I was expecting it would be a story I’d love with characters I’d love, even though I knew it was a sad story, instead I got a really short book with characters and plot that both felt distant and drowned by descriptions of the setting and when I finally started to care about the characters and the story it was all over. I feel like perhaps if the story had been longer, or if it had been written in such a way that I’d manage to feel a connection to the characters from the get go (perhaps even just pushing the last few chapters to the start, I feel like I would have enjoyed reading the book more if that had been the case, it’s not like I wasn’t already expecting the ending) it could have easily been a book I’d loved, but it wasn’t. 
 
-* I received an ARC of the book through  edelweiss+ in exchange for an honest review
+*I received an ARC of the book through  edelweiss+ in exchange for an honest review
+
 ** I received an ARC of the book through netgalley in exchange for an honest review
+
 *** I received an ARC of the book through penguin first to read in exchange for an honest review 
 
 
